@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.REACT_NUMBER = '265889976968'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['265889976968'] //ur owner number
+global.ownername = "🎸 KINGSLEY " //ur owner name
+global.ytname = "YT: Kingsley" //ur yt chanel name
+global.socialm = "GitHub: ife250" //ur github or insta name
+global.location = "south, africa, malawil" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
+global.owner = ['265889976968']
+global.ownertag = '265889976968' //ur tag number
+global.botname = '✫ ✫ ✫KINGSLEY✫ ✫ ✫' //ur bot name
+global.linkz = "https://github.com/ife250/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/ife250/DARK-NERO-BOT.git" //ur website to be displayed
+global.botscript = 'https://github.com/ife250/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.packname = "Kingsley Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "kingsley🦄" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['265889976968'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -85,20 +85,20 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
+    success: 'kingsley-bot Done ✓',
+    admin: 'This Feature Is Only For pros! lmao',
+    botAdmin: 'Bot Must Be Admin First! lmao',
+    owner: 'This Feature Is Only For My master! 😘',
     group: 'Feature Used Only For Groups! 🇱🇰',
     private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
-    error: 'Error!!',
+    bot: 'This Feature Is Only For kingsley-Bot 🇱🇰',
+    wait: 'In wait mode 🇱🇰',
+    linkm: 'Where is the link? fool',
+    error: 'fuck Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    ban: 'You have been banned by My master, if you want to be unbanned, chat with em hehe.',
+    nsfw: 'HORNY mode feature has not been activated yet u perv, please contact the pros to activate',
+    banChat: 'The bot was banned in this group, please contact My master to unban'
 }
     global.limitawal = {
     premium: "Infinity",
